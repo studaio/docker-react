@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Dante!
+          Nati i Dave są wielcy!
         </a>
       </header>
     </div>
